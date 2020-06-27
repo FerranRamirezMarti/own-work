@@ -1,17 +1,14 @@
 # own-work
-Repo for my work done in my free time related mostly to algorithms of some kinds, a.i. etc
-
+Repo with my work done in my free time related mostly to algorithms of some kinds, a.i. etc
 
 ## mathematica-modules
 ### formal_languages.nb
-Few modules related to processing of Formal Languages 
-
+Processing of Formal Languages (few modules)
 ### 1D_celular_automata.nb
-Unidimensional Celular Automata generator via Wolfram numbers.
-
+Unidimensional Celular Automata generator via Wolfram numbers
 ### celular_automata_recog.nb
+Binary Celular Automata generation for language recognition (few modules)
+### pSystem.nb
+Operation of various P systems without formalization
 
-
-
-### 
-Funcionamiento de diversos sistemas P sin formalizar.
+##
