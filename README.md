@@ -1,4 +1,5 @@
 # own-work
+!Moved to Gitlab!
 Repo with my work done in my free time related mostly to algorithms of some kinds, a.i. etc
 
 ## mathematica-modules
